@@ -1,0 +1,51 @@
+body {
+	background: rgb(146, 134, 134);
+}
+
+#grade {
+	display: grid;
+	grid-template-columns: 100px 100px 100px;
+	grid-template-rows: 100px 100px 100px;
+	margin-top: 20px;
+	margin-left: 550px;
+}
+h5{
+	margin-left: 550px;
+	font-family: 'Courier New', Courier, monospace;
+}
+h2{
+	margin-left: 550px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+#grade button {
+	font-size: 50pt;
+}
+
+#reiniciar{
+	display: grid;
+	grid-template-columns: 100px;
+	grid-template-rows: 50px;
+}
+
+#reiniciar button {
+	font-size: 15pt;
+	
+}
+
+#jogo{
+	display:none;
+}
+
+#timer {
+	font-size: 60pt;
+}
+
+#gameover {
+	font-size: 70pt;
+	color: red;
+}
+#return button{
+    display: block;
+    
+}
