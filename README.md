@@ -11,3 +11,5 @@ Aplicação simples em Js - Jogo da Velha
 ### O que foi aprendido
 
 - Condições de if and else e marcações de pontos em montagem de jogo simples. 
+
+##Jornada de Aprendizado no inicio de tudo.
